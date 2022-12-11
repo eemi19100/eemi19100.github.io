@@ -1,5 +1,5 @@
-{
-    "questions": [
+
+     [
     {
       "question": "Who invented JavaScript?",
       "answers": {
@@ -29,4 +29,3 @@
       "correctAnswer": "d"
     }
   ]
-}
